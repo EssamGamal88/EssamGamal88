@@ -14,19 +14,23 @@
 - 💬 Ask me about **GOlang**  
 - 📫 How to reach me: <a href="mailto:essamm.gamall@gmail.com">essamm.gamall@gmail.com</a>
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=EssamGamal88&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-    </td>
-    <td width=![Uploading matrix-code-animation-gif-free-animated-background-716.gif…]()
-"50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/EssamGamal88/EssamGamal88/main/banner.png" alt="Essam Gamal banner" width="100%"/>
-    </td>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=EssamGamal88&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
+</p>
+    <td width="50%" align="center" valign="top">
+  <img src="./matrix-code-animation-gif-free-animated-background-716.gif" alt="banner" width="100%">
+</td>
+
   </tr>
 </table>
 
+<p align="center">
+<strong>Curious mind, consistent practice, steady progress.
+</p>
+
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EssamGamal88&theme=flat&margin-w=10&margin-h=10&row=1" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=EssamGamal88&theme=flat&margin-w=10&margin-h=10&row=1" alt="trophies">
 </p>
 
 ### Connect with me
