@@ -16,9 +16,9 @@
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=EssamGamal88&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width=![Uploading matrix-code-animation-gif-free-animated-background-716.gif…]()
+"50%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/EssamGamal88/EssamGamal88/main/banner.png" alt="Essam Gamal banner" width="100%"/>
     </td>
   </tr>
@@ -42,12 +42,12 @@
 </p>
 
 ### Languages & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
 </p>
 
 ### GitHub Stats
