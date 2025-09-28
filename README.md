@@ -7,12 +7,12 @@
   <tr>
     <td width="50%" valign="top">
 
-- 💻 Currently learning **Go** via Nexera 01 – Piscine Go  
+- 💻 Currently learning **Go** via 01 Talent / Nextera  
 - 🚀 Completed the **first month** & built multiple quests  
-- 🤝 Open to **tech-marketing** collabs & beginner-friendly Go/JS projects  
-- 💬 Ask me about **GTM, content funnels, developer onboarding**  
-- 🎯 2025 Goals: ship 3 Go projects (CLI/Web), a REST API, and contribute to OSS  
-- 📫 Connect: <a href="https://www.linkedin.com/in/essamgamal/">LinkedIn</a>
+- 🤝 Open to **tech-marketing** collabs & beginner-friendly Go/JS projects
+- 👨‍💻 All of my projects are available at https://github.com/essamgamal88
+- 💬 Ask me about **GOlang**  
+- 📫 How to reach me: <a href="mailto:essamm.gamall@gmail.com">essamm.gamall@gmail.com</a>
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=EssamGamal88&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
