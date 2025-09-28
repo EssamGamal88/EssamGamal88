@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Essam Gamal</h1>
 <p align="center">
-  Digital Marketer (MBA) → Software Developer | Learning Go @ Nexera 01 (Piscine Go)
+  Digital Marketer (MBA) → Software Developer | Learning @ 01 Talent / Nextera (Piscine Go)
 </p>
 
 <table>
