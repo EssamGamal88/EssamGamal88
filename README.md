@@ -31,14 +31,12 @@
 
 ### Connect with me
 <p>
-  <a href="https://www.linkedin.com/in/essamgamal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/essamgamal/" target="_blank" aria-label="LinkedIn">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="36" height="36">
   </a>
-  <!-- ضيف إيميلك لو حابب
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-333333.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  -->
+
+</a>
 </p>
 
 ### Languages & Tools
