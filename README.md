@@ -62,9 +62,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EssamGamal88&layout=compact&hide_border=true" height="165" alt="Top Languages"/>
 </p>
-
 <!-- نشاط (اختياري)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EssamGamal88&theme=github-compact&hide_border=true" alt="activity graph"/>
 </p>
 -->
+
+💬 Currently focusing on improving my Go + GUI skills while documenting every step.
