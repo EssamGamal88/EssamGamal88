@@ -14,7 +14,7 @@
 ---
 
 ### 🧭 About Me  
-💡 Currently learning **Go (Golang)** via **01Talent / Nextera**  
+💡 Constant learner via **01Talent / Nextera**  
 🚀 Completed the **first month** of Piscine Go and built multiple CLI & GUI projects  
 🤝 Open to **tech-marketing collabs** and beginner-friendly Go/JS projects  
 📁 All my projects are available on [**GitHub → EssamGamal88**](https://github.com/EssamGamal88)  
