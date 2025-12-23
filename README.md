@@ -27,7 +27,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [**Quadchecker-GUI**](https://github.com/EssamGamal88/Quadchecker-GUI) | A modern Go + Fyne GUI app that detects ASCII quads visually | Go · Fyne · MP3 Beep |
-| [**Piscine-Go**](https://github.com/EssamGamal88/piscine-go) | My 01Talent Go journey — from fundamentals to logic and recursion | Go · CLI · Algorithms |
+| [**Piscine-Go**](https://github.com/EssamGamal88/piscine-go) | My 01Talent Go journey from fundamentals to logic and recursion | Go · CLI · Algorithms |
 
 ---
 
